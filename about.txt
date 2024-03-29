@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Myanmar
+- Font Author: Copyright 2015 Google Inc. All Rights Reserved.
+- Font Source: https://fonts.gstatic.com/s/notosansmyanmar/v20/AlZv_y1ZtY3ymOryg38hOCSdOnFq0HFy8cEwiEwLxR-r.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
